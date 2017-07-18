@@ -1,0 +1,24 @@
+{
+  "name": "basenodeexample",
+  "version": "1.0.0",
+  "description": "BaseNode Example 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Viraj Patel",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
+}
+
+//node -v
+//npm init
+//npm start
+//npm install nodemon -g
+//npm install express --save-dev
+//npm install express --save
+//node index.js
