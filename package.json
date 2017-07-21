@@ -23,3 +23,9 @@
 //npm install express --save
 //node index.js
 //npm run debug
+
+
+Babel Comands
+//npm cache clean --force
+//npm install babel-cli babel-core --save-dev
+//npm install --save-dev babel-preset-es2015
